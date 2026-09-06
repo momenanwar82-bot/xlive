@@ -1,0 +1,11 @@
+{
+  "name": "Remix منصة لايفات تفاعلية",
+  "description": "منصة شاملة للغرف التفاعلية واللايفات الهادفة (تعليم، لياقة، لغات) بغرف فيديو تشبه الماسنجر مع شات صوتي وتسجيلات وباقات جوجل بلاي",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
